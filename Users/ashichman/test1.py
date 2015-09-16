@@ -1,1 +1,1 @@
-print 'hello quant world'
+print('hello quant world')
